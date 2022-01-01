@@ -104,4 +104,3 @@ Course materials and teaching by: _[unordered]_
 * A lot of fixes from [arogozhnikov](https://github.com/arogozhnikov)
 * Other awesome people: see github [contributors](https://github.com/yandexdataschool/Practical_RL/graphs/contributors)
 * [Alexey Umnov](https://github.com/alexeyum) helped us a lot during spring2018
-
