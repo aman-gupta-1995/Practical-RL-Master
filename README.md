@@ -24,7 +24,6 @@ Taught on-campus at [HSE](https://cs.hse.ru) and [YSDA](https://yandexdataschool
     * [Installing dependencies](https://github.com/yandexdataschool/Practical_RL/issues/1) on your local machine (recommended).
     * Alternative: [Azure Notebooks](https://notebooks.azure.com/).
 
-
 # Additional materials
 * [RL reading group](https://github.com/yandexdataschool/Practical_RL/wiki/RL-reading-group)
 
