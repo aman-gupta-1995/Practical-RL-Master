@@ -55,4 +55,4 @@ youtube-dl 'https://www.youtube.com/watch?v=dMOUp7YzUpQ' --output 'week08_pomdp/
 youtube-dl 'https://www.youtube.com/watch?v=dMOUp7YzUpQ' --output 'week08_pomdp/lect/Bonus_lecture_Baveja.mp4'
 
 # week09
-youtube-dl 'https://www.youtube.com/watch?v=_t5fpZuuf-4' --output 'week09_policy_II/lect/Lecture_Schulman.mp4'
+youtube-dl 'https://www.youtube.com/watch?v=_t5fpZuuf-4' --output 'week09_policy_II/lect/Lecture_Schulman.mp4' 
