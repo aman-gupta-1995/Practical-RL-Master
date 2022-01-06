@@ -30,7 +30,7 @@ RUN su $username -c \
     su $username -c "echo '. /opt/conda/etc/profile.d/conda.sh' >> ~/.bashrc" && \
     su $username -c "echo 'conda activate base' >> ~/.bashrc"
 
-ADD deeplearning.yaml /tmp/deeplearning-template.yaml
+ADD deeplearning.yaml /tmp/deeplearning-template.yaml 
 
 USER $username
 SHELL ["/bin/bash", "-i", "-c"]
