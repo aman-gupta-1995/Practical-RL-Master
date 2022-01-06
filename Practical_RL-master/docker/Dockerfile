@@ -48,7 +48,7 @@ LABEL maintainer "Alexander Panin <justheuristic@gmail.com>, Dmitry Mittov <mitt
 
 ARG username
 USER $username
-SHELL ["/bin/bash", "-i", "-c"]
+SHELL ["/bin/bash", "-i", "-c"] 
 
 RUN conda env create -f /tmp/deeplearning.yaml && \
     conda activate deeplearning && \
