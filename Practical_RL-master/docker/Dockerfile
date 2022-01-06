@@ -33,7 +33,7 @@ RUN su $username -c \
 ADD deeplearning.yaml /tmp/deeplearning-template.yaml 
 
 USER $username
-SHELL ["/bin/bash", "-i", "-c"]
+SHELL ["/bin/bash", "-i", "-c"] 
 RUN conda install -y jupyter
 
 FROM base AS stage-cpu
