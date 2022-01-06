@@ -9,7 +9,7 @@ FROM base-$device AS base
 
 ARG username
 ENV DEBIAN_FRONTEND=noninteractive
-  
+ 
 RUN apt-get -qq update && \
     apt-get install -y wget unzip git cmake xvfb sudo freeglut3-dev ffmpeg
 
