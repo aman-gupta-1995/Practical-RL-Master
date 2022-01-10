@@ -2,7 +2,7 @@ __Note:__ This week's materials cover the basics of neural nets and deep learnin
 
 ## Materials
 * [__Lecture slides__](https://yadi.sk/i/yAO2AJ3M3EKP8g)
- 
+
 - __In russian:__
   * Basic lecture on deep learning - [video](https://yadi.sk/i/yyHZub6R3Ej5dV)
   * Deep learning frameworks - [video](https://yadi.sk/i/hDIkaR4H3EtnXM)
