@@ -7,7 +7,7 @@ __doc__ = """taken from https://github.com/Lasagne/Lasagne/blob/master/examples/
 
 def load_dataset():
     # We first define a download function, supporting both Python 2 and 3.
-    if sys.version_info[0] == 2: 
+    if sys.version_info[0] == 2:
         from urllib import urlretrieve
     else:
         from urllib.request import urlretrieve
