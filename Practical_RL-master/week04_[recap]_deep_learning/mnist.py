@@ -5,7 +5,7 @@ import numpy as np
 __doc__ = """taken from https://github.com/Lasagne/Lasagne/blob/master/examples/mnist.py"""
 
 
-def load_dataset():
+def load_dataset(): 
     # We first define a download function, supporting both Python 2 and 3.
     if sys.version_info[0] == 2:
         from urllib import urlretrieve
