@@ -16,7 +16,7 @@ __Note:__ This week's materials cover the basics of neural nets and deep learnin
   * [Tensorflow tutorial](https://www.youtube.com/watch?v=FQ660T4uu7k)
   * [PyTorch tutorial](https://www.youtube.com/watch?v=VMcRWYEKmhw)
 
-## Bonus materials 
+## Bonus materials
 * Karpathy's course on deep learning (english) - http://cs231n.github.io/
 * A neat little play-ground where you can train small NNs and see what they actually learn - [playground](http://playground.tensorflow.org/)
 * Nuts and Bolts of deep learning by Andrew Ng (english) - [video](https://www.youtube.com/watch?v=F1ka6a13S9I)
