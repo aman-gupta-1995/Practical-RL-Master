@@ -1,6 +1,6 @@
 __Note:__ This week's materials cover the basics of neural nets and deep learning and teach you how to use auto-diff frameworks. If you're already fluent in Tensorflow or PyTorch, feel free to skip this week entirely.
 
-## Materials 
+## Materials
 * [__Lecture slides__](https://yadi.sk/i/yAO2AJ3M3EKP8g)
 
 - __In russian:__
