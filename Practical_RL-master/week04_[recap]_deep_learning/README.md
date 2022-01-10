@@ -30,7 +30,7 @@ __Note:__ This week's materials cover the basics of neural nets and deep learnin
 ### Practice
 __[Colab URL (PyTorch)](https://colab.research.google.com/github/yandexdataschool/Practical_RL/blob/master/week04_%5Brecap%5D_deep_learning/seminar_pytorch.ipynb)__
 From now on, we'll have two tracks: Tensorflow and PyTorch.
-
+ 
 Please pick `seminar_tensorflow.ipynb` or `seminar_pytorch.ipynb`.
 
 __Note:__ in this and all following weeks you're only required to get through practice in _one_ of the frameworks. Looking into other alternatives is great for self-education but never mandatory.
