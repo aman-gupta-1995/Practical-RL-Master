@@ -35,7 +35,7 @@ The syllabus is approximate: the lectures may occur in a slightly different orde
   * Lecture: RL problems around us. Decision processes. Stochastic optimization, Crossentropy method. Parameter space search vs action space search.
   * Seminar: Welcome into openai gym. Tabular CEM for Taxi-v0, deep CEM for box2d environments.
   * Homework description - see week1/README.md. 
- 
+  
 * [__week02_value_based__](./week02_value_based) Value-based methods
   * Lecture: Discounted reward MDP. Value-based approach. Value iteration. Policy iteration. Discounted reward fails.
   * Seminar: Value iteration.  
