@@ -105,4 +105,3 @@ Course materials and teaching by: _[unordered]_
 * [Alexey Umnov](https://github.com/alexeyum) helped us a lot during spring2018
 
 
-
