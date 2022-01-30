@@ -7,7 +7,7 @@ from skimage.transform import resize
 from sklearn.model_selection import train_test_split
 
 
-def load_notmnist(path='./notMNIST_small', letters='ABCDEFGHIJ',
+def load_notmnist(path='./notMNIST_small', letters='ABCDEFGHIJ', 
                   img_shape=(28, 28), test_size=0.25, one_hot=False):
     # download data if it's missing. If you have any problems, go to the urls
     # and load it manually.
