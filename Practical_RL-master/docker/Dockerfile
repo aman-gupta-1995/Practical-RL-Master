@@ -5,7 +5,7 @@ FROM ubuntu:18.04 AS base-cpu
   
 FROM nvidia/cuda:10.2-base-ubuntu18.04 AS base-gpu    
      
-FROM base-$device AS base 
+FROM base-$device AS base  
 
 ARG username
 ENV DEBIAN_FRONTEND=noninteractive
