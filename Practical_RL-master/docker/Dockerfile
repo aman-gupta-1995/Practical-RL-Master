@@ -1,6 +1,6 @@
 ARG device
-ARG username="jovyan"
-
+ARG username="aman"
+ 
 FROM ubuntu:18.04 AS base-cpu
 
 FROM nvidia/cuda:10.2-base-ubuntu18.04 AS base-gpu
