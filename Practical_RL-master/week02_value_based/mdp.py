@@ -5,7 +5,7 @@ import numpy as np
 from gym.utils import seeding    
    
 try:  
-    from graphviz import Digraph  
+    from graphviz import Digraph   
     import graphviz
     has_graphviz = True
 except ImportError:
