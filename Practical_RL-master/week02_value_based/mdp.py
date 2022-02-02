@@ -6,7 +6,7 @@ from gym.utils import seeding
    
 try:   
     from graphviz import Digraph    
-    import graphviz
+    import graphviz 
     has_graphviz = True 
 except ImportError:
     has_graphviz = False
