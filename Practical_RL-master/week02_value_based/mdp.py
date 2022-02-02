@@ -4,7 +4,7 @@
 import numpy as np    
 from gym.utils import seeding       
    
-try:   
+try:    
     from graphviz import Digraph      
     import graphviz 
     has_graphviz = True 
