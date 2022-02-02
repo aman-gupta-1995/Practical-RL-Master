@@ -31,7 +31,7 @@ class MDP:
         Here's an example from MDP depicted on http://bit.ly/2jrNHNr
         transition_probs = {
             's0': {
-                'a0': {'s0': 0.5, 's2': 0.5},
+                'a0': {'s0': 0.5, 's2': 0.5}, 
                 'a1': {'s2': 1}
             },
             's1': {
