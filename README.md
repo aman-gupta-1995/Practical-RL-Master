@@ -1,5 +1,5 @@
 # Practical_RL     
- 
+  
 An open course on reinforcement learning in the wild. 
 Taught on-campus at [HSE](https://cs.hse.ru) and [YSDA](https://yandexdataschool.com/) and maintained to be friendly to online students (both english and russian).
 
@@ -9,7 +9,7 @@ Taught on-campus at [HSE](https://cs.hse.ru) and [YSDA](https://yandexdataschool
 * __Git-course.__ Know a way to make the course better? Noticed a typo in a formula? Found a useful link? Made the code more readable? Made a version for alternative framework? You're awesome! [Pull-request](https://help.github.com/articles/about-pull-requests/) it!
  
 [![Github contributors](https://img.shields.io/github/contributors/yandexdataschool/Practical_RL.svg?logo=github&logoColor=white)](https://github.com/yandexdataschool/Practical_RL/graphs/contributors)
-
+ 
 # Course info
 * __Chat room__ for YSDA & HSE students is [here](https://t.me/joinchat/WM-4KG7vU4LnId1K)
 * __Grading__ rules for YSDA & HSE students is [here](https://github.com/yandexdataschool/Practical_RL/wiki/Homeworks-and-grading)
