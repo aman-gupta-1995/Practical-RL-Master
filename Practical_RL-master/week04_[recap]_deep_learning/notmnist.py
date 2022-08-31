@@ -1,7 +1,7 @@
  import os 
 from glob import glob
   
-import numpy as np
+import numpy as np 
 from imageio import imread 
 from skimage.transform import resize  
 from sklearn.model_selection import train_test_split  
