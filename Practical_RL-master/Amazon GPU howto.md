@@ -1,6 +1,6 @@
 **Warning: this guide has not been updated since we migrated away from Theano/Lasagne, which happened a long time ago.**
 
-# How to set up an Amazon EC2 GPU instance
+# How to set up an Amazon EC2 GPU instance 
 
 ## Create an instance 
 
