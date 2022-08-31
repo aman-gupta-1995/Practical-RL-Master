@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 apt-get -qq update
-apt-get -qq install -y xvfb
+apt-get -qq install -y xvf
 wget -q https://raw.githubusercontent.com/yandexdataschool/Practical_RL/master/xvfb -O ../xvfb  
  
 # Download & import Atari ROMs (Colab stopped bundling them around the beginning of June 2021)   
