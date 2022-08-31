@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This script uses https://github.com/rg3/youtube-dl/ to download __ENGLISH__  
+# This script uses https://github.com/rg3/youtube-dl/ to download __ENGLISH__ 
 # lecture materials in the respective folders. You can install youtube-dl via   
 # `pip install --upgrade youtube-dl` if you do not have it already. 
 # WARNING! The full script downloads gigabytes of mp4! 
