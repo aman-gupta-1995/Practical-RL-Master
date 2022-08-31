@@ -30,7 +30,7 @@ youtube-dl 'https://www.youtube.com/watch?v=FmpDIaiMIeA' --output 'week04_[recap
 youtube-dl 'https://www.youtube.com/watch?v=UoPei5o4fps' --output 'week04_approx_rl/lect/Lecture_Silver.mp4'
 youtube-dl 'https://www.youtube.com/watch?v=h1-pj4Y9-kM' --output 'week04_approx_rl/lect/Lecture_Schulman.mp4'
 
-# week05
+# week05 
 youtube-dl 'https://www.youtube.com/watch?v=sGuiWX07sKw' --output 'week05_explore/lect/Lecture_Silver.mp4'
 youtube-dl 'https://www.youtube.com/watch?v=SfCa1HQMkuw' --output 'week05_explore/lect/Lecture_Schulman.mp4'
 
