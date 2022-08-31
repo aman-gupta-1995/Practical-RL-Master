@@ -2,7 +2,7 @@
 
 # How to set up an Amazon EC2 GPU instance 
 
-## Create an instance 
+## Create an instance  
 
 Use `p2.xlarge` instance type and `ami-e00a8180` AMI image. [Details](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
 
