@@ -1,6 +1,6 @@
 import numpy as np 
 from gym.spaces.box import Box
-from gym.core import Wrapper   
+from gym.core import Wrapper    
            
                     
 class FrameBuffer(Wrapper):               
