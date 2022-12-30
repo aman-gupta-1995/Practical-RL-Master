@@ -31,7 +31,7 @@ class FrameBuffer(Wrapper):
         new_img, reward, done, info = self.env.step(action)
         self.update_buffer(new_img)
         return self.framebuffer, reward, done, info 
-
+ 
     def update_buffer(self, img):
         if self.dim_order == 'tensorflow':
             offset = self.env.observation_space.shape[-1]
