@@ -3,7 +3,7 @@ from gym.spaces.box import Box
 from gym.core import Wrapper  
          
                    
-class FrameBuffer(Wrapper):           
+class FrameBuffer(Wrapper):            
     def __init__(self, env, n_frames=4, dim_order='tensorflow'):      
         """A gym wrapper that reshapes, crops and scales image into the desired shapes"""
         super(FrameBuffer, self).__init__(env)
