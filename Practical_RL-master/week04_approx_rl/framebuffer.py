@@ -36,7 +36,7 @@ class FrameBuffer(Wrapper):
         if self.dim_order == 'tensorflow':
             offset = self.env.observation_space.shape[-1]
             axis = -1 
-            cropped_framebuffer = self.framebuffer[:, :, :-offset]
+            cropped_framebuffer = self.framebuffer[:, :, :-offset] 
         elif self.dim_order == 'pytorch':
             offset = self.env.observation_space.shape[0]
             axis = 0
