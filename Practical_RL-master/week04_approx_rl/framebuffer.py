@@ -27,7 +27,7 @@ class FrameBuffer(Wrapper):
         return self.framebuffer
 
     def step(self, action):
-        """plays breakout for 1 step, returns frame buffer"""
+        """plays breakout for 1 step, returns frame buffer""" 
         new_img, reward, done, info = self.env.step(action)
         self.update_buffer(new_img)
         return self.framebuffer, reward, done, info 
