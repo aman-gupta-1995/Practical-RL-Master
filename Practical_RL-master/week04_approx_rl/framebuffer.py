@@ -35,7 +35,7 @@ class FrameBuffer(Wrapper):
     def update_buffer(self, img):
         if self.dim_order == 'tensorflow':
             offset = self.env.observation_space.shape[-1]
-            axis = -1
+            axis = -1 
             cropped_framebuffer = self.framebuffer[:, :, :-offset]
         elif self.dim_order == 'pytorch':
             offset = self.env.observation_space.shape[0]
